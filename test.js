@@ -1,10 +1,10 @@
-import fakeProfession from './index.js';
+import animal from './index.js';
 import test from 'ava';
 
-test('fakeAnimal return type to be string', t => {
-	t.is(typeof fakeProfession(), 'string');
+test('animal return type to be string', t => {
+	t.is(typeof animal(), 'string');
 });
 
-test('fakeAnimal with type and locale return type to be string', t => {
-	t.is(typeof fakeProfession({type: 'zoo', locale: 'en_US'}), 'string');
+test('animal with type and locale return type to be string', t => {
+	t.is(typeof animal({type: 'zoo', locale: 'en_US'}), 'string');
 });

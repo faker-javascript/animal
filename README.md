@@ -15,15 +15,15 @@ $ npm install --save @fakerjs/animal
 ## Usage
 
 ```js
-import fakeAnimal from '@fakerjs/animal';
+import animal from '@fakerjs/animal';
 
-fakeAnimal();
+animal();
 //=> Snow Leopard
 
-fakeAnimal({type: 'zoo'});
+animal({type: 'zoo'});
 //=> Snow Leopard
 
-fakeAnimal({type: 'zoo', locale: 'en_US'});
+animal({type: 'zoo', locale: 'en_US'});
 //=> Snow Leopard
 
 // Allowed type: ocean, desert, grassland, forest, farm, pet, zoo

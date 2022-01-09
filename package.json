@@ -1,6 +1,6 @@
 {
   "name": "@fakerjs/animal",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Animal package provides functionality to generate a fake animal value.",
   "license": "MIT",
   "repository": "faker-javascript/animal",
@@ -25,6 +25,7 @@
   ],
   "keywords": [
     "fakerjs",
+    "faker",
     "fake",
     "random",
     "animal"

@@ -1,4 +1,4 @@
-export default function fakeAnimal(options) {
+export default function animal(options) {
     options = options || {};
     let animals = {
         "en_US": {
