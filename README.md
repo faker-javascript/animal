@@ -4,7 +4,7 @@ Animal package provides functionality to generate a fake animal value.
 </p>
 
 <p align="center">
-<a href="https://github.com/faker-javascript/animal/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/animal.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/animal"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/animal"> <a href="https://github.com/faker-javascript/ip/actions/workflows/animal.yml"><img src="https://github.com/faker-javascript/ip/actions/workflows/animal.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/animal"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a>
+<a href="https://github.com/faker-javascript/animal/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/animal.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/animal"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/animal"> <a href="https://github.com/faker-javascript/ip/actions/workflows/animal.yml"><img src="https://github.com/faker-javascript/ip/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/animal"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a>
 </p>
 
 ## Install
