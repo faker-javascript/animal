@@ -9,8 +9,14 @@ Animal package provides functionality to generate a fake animal value.
 
 ## Install
 
+npm
 ```
-$ npm install --save @fakerjs/animal
+npm install @fakerjs/animal --save-dev
+```
+
+yarn
+```
+yarn add @fakerjs/animal -D
 ```
 
 ## Usage
