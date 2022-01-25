@@ -1,3 +1,7 @@
+<a name="2.2.0"></a>
+# [2.2.0](https://github.com/faker-javascript/animal) (2022-01-25)
+* Improve and simplify logic.
+
 <a name="2.1.1"></a>
 # [2.1.1](https://github.com/faker-javascript/animal) (2022-01-14)
 * Typo updates.
